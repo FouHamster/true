@@ -1,0 +1,13 @@
+button {
+    background: white;
+    font-size: 15px;
+    border: rgba(108, 92, 231, 0.5) ;
+    border-radius: 10px;
+    padding: 20px;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: rgba(108, 92, 231, 0.5); /* Green */
+    color: #ffffff;
+}
